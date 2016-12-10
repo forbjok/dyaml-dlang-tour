@@ -8,8 +8,8 @@ fixes are accepted upstream.
 
 .. image:: https://travis-ci.org/forbjok/dyaml-yamlserialized.svg?branch=master
     :target: https://travis-ci.org/forbjok/dyaml-yamlserialized
-.. image:: https://img.shields.io/dub/v/dyaml-dlang-tour.svg
-   :target: http://code.dlang.org/packages/dyaml-dlang-tour
+.. image:: https://img.shields.io/dub/v/dyaml-yamlserialized.svg
+    :target: https://code.dlang.org/packages/dyaml-yamlserialized
 
 **Note**: D:YAML 0.5 brings some **breaking changes**. See the
 `changelog <https://github.com/kiith-sa/D-YAML/blob/master/CHANGES.rst>`_.
