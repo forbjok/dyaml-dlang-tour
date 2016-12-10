@@ -1,5 +1,5 @@
 {
-    "name": "dyaml-dlang-tour",
+    "name": "dyaml-yamlserialized",
     "description": "YAML parser and emitter",
     "authors": [ "Ferdinand Majerech" ],
     "libs": [],
